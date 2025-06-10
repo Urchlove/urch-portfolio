@@ -8,6 +8,8 @@ import Contact from './components/contact/Contact'
 import Foot from './components/Footer/Foot'
 
 function App() {
+  
+  
   return (
     <div>
       <Navbar/>
