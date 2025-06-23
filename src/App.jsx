@@ -4,7 +4,7 @@ import Hero from './components/Hero/Hero'
 import About from './components/About/About'
 import Services from './services/Services'
 import Mywork from './components/Mywork/Mywork'
-import Contact from './components/Contact/contact'
+import Contact from './components/Contact/Contact'
 import Foot from './components/Footer/Foot'
 
 function App() {
