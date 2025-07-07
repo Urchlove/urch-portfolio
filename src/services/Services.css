@@ -75,7 +75,7 @@
 }
 @media (max-width:768px) {
      .services{
-        gap: 50px;
+        gap: 70px;
         margin: 20px 70px;
         align-items: start;
 
@@ -100,11 +100,11 @@
         padding: 10px;
     }
     .services-format h2{
-        font-size: 28px;
+        font-size: 10px;
     }
     .services-format p{
-        font-size: 18px;
-        line-height: 32px;
+        font-size: 15px;
+        line-height: 30px;
         max-width: 300px;
     }
     .services-report{
