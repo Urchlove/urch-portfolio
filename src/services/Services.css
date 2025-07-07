@@ -74,11 +74,14 @@
     transition: 0.4s; 
 }
 @media (max-width:768px) {
-    .services{
-        align-items: start;
+     .services{
         gap: 70px;
         margin: 20px 70px;
-    }
+        align-items: start;
+
+     }   
+        
+    
     .services-title h1{
         padding: 0px;
         font-size: 50px;
